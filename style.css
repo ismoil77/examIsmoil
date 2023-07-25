@@ -1,0 +1,215 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Karma&family=Montserrat:wght@100&family=Raleway:ital,wght@0,200;0,500;1,100&family=Roboto:wght@300&family=Sintony&family=Source+Code+Pro:wght@200&family=Source+Sans+3:wght@200&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    width: 1440px;
+    height: 66px;
+    display: flex;
+    list-style: none;
+    flex-direction: row;
+    background: #FFFFFF;
+
+}
+.np1{
+    display: flex;
+    list-style: none;
+    flex-direction: row;
+    width: 60px;
+    height: 22px;
+    top: 23px;
+    left: 34px;
+    font-family: Montserrat;
+font-size: 12px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+padding-top: 10px;
+color: #404040;
+
+
+}
+.navbar{
+    width: 940px;
+    height: 70px;
+    top: 18px;
+    padding-top: 10px;
+    display: flex;
+    list-style: none;
+    flex-direction: row; 
+    gap: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.logo{
+    width: 155px;
+    height: 50px;
+    padding-right: 460px;
+  
+    margin-left: 5px;
+}
+.img2{
+    margin-top: -30px;
+
+}
+.img3{
+    display: flex;
+    justify-content: center;
+   width: 394px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 100px;
+}
+.container3{
+    width: 1440px;
+    height: 450px;
+}
+.img4{
+    margin-left: 230px;
+    margin-top: 100px;
+}
+.img7{
+    display: flex;
+    justify-content: center;
+   width: 394px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 100px;
+   width: 230px;
+height: 36px;
+
+padding-top: 100px;
+left: 355px;
+
+
+}
+
+.container4{
+    width: 1440px;
+    height: 1669px;
+    background: #F5F5F5;
+
+
+}
+.vconteiner4{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.igmall{
+     width: 66%;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 100px;
+     
+}
+.img8{
+    display: flex;
+    justify-content: center;
+   width: 294px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 100px;
+   width: 230px;
+height: 20px;
+
+padding-top: 0px;
+left: 355px;
+
+
+}
+
+.container5{
+    width: 1440px;
+    height: auto;
+    background: #ffffff;
+
+
+}
+.vconteiner5{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.igmall2{
+     width: 74%;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 100px;
+   padding-left: 50px;
+   margin-bottom: 100px;
+     
+}
+.container6{
+     width: 1440px;
+     height: 500px;
+     background: #F5F5F5;
+
+}
+.co1{
+    padding-top: 100px;
+   margin-left: 700px;
+}
+.co2{
+    margin-left: 280px;
+}
+.vconteiner7{
+   
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.igmall112{
+  margin-left: 200px;
+  margin-top: 100px;
+}
+.container7{
+    background-image: url(/img/backg.svg);
+    width: 1440px;
+    height: auto;
+    margin-top: -100px;
+}
+::-webkit-input-placeholder{
+    color: rgb(255, 255, 255);
+   padding-left: 10px;
+}
+.name{
+    width: 464px;
+    height: 47px;
+    background-color: #404040;
+    margin-left: 110px;
+    margin-left: 0px;
+    
+}
+.container8{
+    background-color: black;
+    width: 1440px;
+height: 639px;
+
+}
+.vcontainer8{
+    width:464px ;
+    margin-left: auto;
+    margin-right: auto;
+}
+.name1{
+     color: #F5F5F5;
+    background-color: #404040;  
+}
+.button{
+margin-left: 150px;
+margin-top: 30px;
+left: 188px;
+border:1px solid rgb(112, 147, 241);
+background-color:black ;
+width: 150px;
+height: 50px;
+color: #72a2eb;
+border-radius: 1px;
+font-family: 'Times New Roman', Times, serif;
+}
